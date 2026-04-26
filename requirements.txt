@@ -9,6 +9,7 @@ chromadb>=0.6.0
 PyMuPDF>=1.27.0
 docling>=2.84.0
 docling-core>=2.71.0
+sentence-transformers>=5.4.1
 
 # API & Networking
 google-genai>=1.70.0
